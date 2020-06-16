@@ -6,8 +6,9 @@ def get_read_me():
 
 
 setup(
-    author='ABB',
-    author_email='amirbahador.pv@gmail.com',
+    author='AmirBahadorDev',
+    author_email='amirbahadordev@gmail.com',
+    url='https://github.com/AmirBahadorDev/elk-stack.git',
     name='elk-stack',
     version='0.0.1',
     description='Complete ElasticSearch Stack',
