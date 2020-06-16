@@ -1,7 +1,7 @@
 # Table of Content
 0. [Installation](#installation)
 1. [License](#license--copyright)
-2. [DEVELOPING]
+2. [DEVELOPING](#developing-elk-stack)
 ___
 # installation
 
