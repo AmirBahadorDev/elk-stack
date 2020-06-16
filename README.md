@@ -14,7 +14,7 @@ pip install elk-stack
 ___
 # License & copyright
 © AmirBahador Bahadori, Shahrood university Computer Engineering
-Licensed under the [MIT LICENSE](LICENSE.txt)
+Licensed under the [MIT LICENSE](LICENSE)
 ___
 # DEVELOPING elk-stack
 
